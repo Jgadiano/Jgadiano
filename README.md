@@ -164,3 +164,80 @@ I manage website content and day-to-day digital operations across platforms such
 **Key areas:** Website management • Content updates • Product management • eCommerce support • QA • Website coordination • Digital asset management
 
 ---
+## 🏆 Selected Work & Impact
+
+My work spans project management, marketing, customer experience, digital operations, SEO, and website management across different businesses and industries.
+
+### 📋 Project & Team Management
+
+Managed projects involving multiple teams, priorities, deadlines, and stakeholders using platforms such as ClickUp, Monday.com, Jira, Asana, Trello, and Basecamp.
+
+- Coordinated tasks, deliverables, timelines, and team communication
+- Built and maintained organized project workflows
+- Monitored progress and helped identify potential blockers
+- Improved visibility across projects and responsibilities
+- Supported teams from planning through execution
+
+### 📈 Marketing & Digital Growth
+
+Supported marketing initiatives designed to improve online visibility, audience engagement, lead generation, and overall digital presence.
+
+- Coordinated digital marketing campaigns and content
+- Supported SEO and website optimization initiatives
+- Worked with analytics and performance data
+- Assisted with email marketing and campaign execution
+- Managed website and digital content across multiple platforms
+
+### 🤝 Customer Experience Improvement
+
+Reviewed customer journeys and business processes to identify friction points and opportunities for a smoother customer experience.
+
+- Evaluated lead and inquiry handling processes
+- Improved customer communication and follow-up workflows
+- Supported onboarding and customer support processes
+- Developed FAQs and self-service opportunities
+- Identified opportunities to improve retention and repeat business
+
+### ⚙️ Business Process & Digital Operations
+
+Helped businesses organize recurring workflows, documentation, communication, and digital systems to support more efficient day-to-day operations.
+
+- Created and improved workflows and standard processes
+- Organized documentation and operating procedures
+- Supported CRM and customer management processes
+- Coordinated cross-functional responsibilities
+- Helped streamline repetitive operational tasks
+
+### 🌐 Website & eCommerce Operations
+
+Supported the ongoing management of business websites and eCommerce platforms using Joomla, WordPress, and Shopify.
+
+- Managed website content and updates
+- Coordinated website improvements and QA
+- Supported product and eCommerce management
+- Worked with developers, designers, and marketing teams
+- Helped maintain consistent content and customer experiences across digital channels
+
+---
+
+## 💡 Customer Experience Audit & Improvement Strategy
+
+One of my specialized services is helping businesses identify where customers may be getting stuck, confused, frustrated, or dropping off throughout their customer journey.
+
+I review key customer-facing areas and help prioritize practical improvements that can create a smoother and more effective experience.
+
+**Areas I can review include:**
+
+- Customer journey and overall experience
+- Lead and inquiry handling
+- Customer support and communication
+- Follow-up and onboarding processes
+- Website and customer-facing workflows
+- FAQs and self-service resources
+- Checkout and conversion experience
+- CRM and customer management workflows
+- Retention and repeat-customer opportunities
+
+The goal is to turn observations into **clear, prioritized, and actionable improvements** that businesses can actually implement.
+
+---
