@@ -116,3 +116,51 @@ I work with a wide range of digital platforms to manage projects, coordinate tea
 </p>
 
 ---
+
+## 💼 What I Do
+
+I help businesses bring structure to projects, improve day-to-day operations, strengthen customer experiences, and execute marketing initiatives more effectively.
+
+### 📋 Project Management
+
+I manage projects from planning through execution, helping teams stay organized, aligned, and focused on priorities.
+
+**Key areas:** Project planning • Task management • Team coordination • Timeline management • Workflow setup • Progress tracking • Stakeholder communication
+
+### 📈 Marketing Strategy & Execution
+
+I support businesses in planning and implementing practical marketing initiatives that strengthen their online presence and connect with the right audience.
+
+**Key areas:** Digital marketing • Campaign coordination • Content planning • SEO • Email marketing • Website strategy • Performance monitoring
+
+### 🤝 Customer Experience & Support
+
+I help identify friction points across the customer journey and develop practical improvements that create smoother, more consistent customer experiences.
+
+**Key areas:** Customer journey • Support processes • Lead handling • Follow-up • Onboarding • FAQs & self-service • Retention • Customer communication
+
+### ⚙️ Digital Operations & Process Improvement
+
+I organize workflows, document processes, and help businesses build more efficient systems for managing recurring work and daily operations.
+
+**Key areas:** Workflow optimization • SOPs • Process documentation • CRM management • Task systems • Team processes • Operational support
+
+### 💻 Virtual Assistance
+
+I provide reliable administrative and digital support for businesses that need an experienced professional who can work independently and manage multiple responsibilities.
+
+**Key areas:** Executive support • Research • Data management • Client communication • Scheduling • Documentation • Content management • Administrative support
+
+### 🔍 SEO & Digital Presence
+
+I support website visibility through practical SEO, content optimization, analytics, and ongoing improvements to a business's digital presence.
+
+**Key areas:** On-page SEO • Search Console • Analytics • Content optimization • Website audits • Local visibility • Performance tracking
+
+### 🌐 Website & eCommerce Management
+
+I manage website content and day-to-day digital operations across platforms such as Joomla, WordPress, and Shopify.
+
+**Key areas:** Website management • Content updates • Product management • eCommerce support • QA • Website coordination • Digital asset management
+
+---
