@@ -241,3 +241,48 @@ I review key customer-facing areas and help prioritize practical improvements th
 The goal is to turn observations into **clear, prioritized, and actionable improvements** that businesses can actually implement.
 
 ---
+## ✨ Professional Highlights
+
+What I bring to every project goes beyond managing tasks. I focus on understanding the business, keeping people aligned, and making sure work moves forward with purpose.
+
+- 🎯 **Business-focused** — I connect day-to-day execution with broader business goals
+- 🧠 **Strategic & detail-oriented** — Comfortable working with both the big picture and the details
+- 🤝 **Collaborative** — Experienced in coordinating clients, teams, and stakeholders
+- ⚙️ **Process-driven** — I look for practical ways to simplify workflows and improve efficiency
+- 💬 **Customer-focused** — I consider the customer experience when evaluating processes and decisions
+- 📈 **Growth-minded** — I support improvements in marketing, operations, visibility, and performance
+- 🔄 **Adaptable** — Comfortable working across different tools, platforms, teams, and industries
+
+---
+
+## 🤝 Let's Work Together
+
+I'm open to opportunities where I can help businesses manage projects, improve operations, strengthen customer experiences, and execute digital and marketing initiatives more effectively.
+
+Whether you need ongoing project management, marketing support, customer experience improvements, digital operations, or reliable virtual assistance, I'd be happy to explore how I can support your business.
+
+<p align="center">
+
+<a href="https://jannethgadiano.com">
+  <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-2E7D5B?style=for-the-badge" alt="Janneth Gadiano Portfolio">
+</a>
+
+&nbsp;
+
+<a href="YOUR-UPWORK-PROFILE-URL">
+  <img src="https://img.shields.io/badge/Hire_Me_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire Janneth on Upwork">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🌱 Helping Businesses Work Smarter & Grow Stronger
+
+**Project Management • Marketing • Customer Experience • Digital Operations**
+
+<sub>Professional profile of Janneth Gadiano</sub>
+
+</div>
