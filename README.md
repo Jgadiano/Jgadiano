@@ -269,7 +269,7 @@ Whether you need ongoing project management, marketing support, customer experie
 
 &nbsp;
 
-<a href="YOUR-UPWORK-PROFILE-URL">
+<a href="https://www.upwork.com/freelancers/jannethg?viewMode=1">
   <img src="https://img.shields.io/badge/Hire_Me_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire Janneth on Upwork">
 </a>
 
