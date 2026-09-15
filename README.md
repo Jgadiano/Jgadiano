@@ -17,7 +17,7 @@ and build smarter systems that support sustainable growth.
 
 &nbsp;
 
-<a href="https://www.upwork.com/">
+<a href="https://www.upwork.com/freelancers/jannethg?viewMode=1">
   <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
 </a>
 
