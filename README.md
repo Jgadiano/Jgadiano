@@ -69,3 +69,50 @@ I work with businesses and teams that need someone who can see both the **big pi
 </p>
 
 ---
+## 🧰 Tools & Platforms
+
+I work with a wide range of digital platforms to manage projects, coordinate teams, support marketing initiatives, improve customer experiences, and keep business operations organized.
+
+### 📋 Project Management & Collaboration
+
+<p>
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp">
+  <img src="https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge&logo=mondaydotcom&logoColor=white" alt="Monday.com">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white" alt="Asana">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
+  <img src="https://img.shields.io/badge/Basecamp-1D2D35?style=for-the-badge&logo=basecamp&logoColor=white" alt="Basecamp">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
+</p>
+
+### 📈 Marketing, SEO & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics">
+  <img src="https://img.shields.io/badge/Google_Search_Console-458CF5?style=for-the-badge&logo=google&logoColor=white" alt="Google Search Console">
+  <img src="https://img.shields.io/badge/SEO-Optimization-2E7D5B?style=for-the-badge" alt="SEO">
+  <img src="https://img.shields.io/badge/Email-Marketing-40916C?style=for-the-badge" alt="Email Marketing">
+</p>
+
+### 🌐 Website, eCommerce & Content
+
+<p>
+  <img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" alt="Joomla">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/Website-Management-388E63?style=for-the-badge" alt="Website Management">
+  <img src="https://img.shields.io/badge/Content-Management-55A77C?style=for-the-badge" alt="Content Management">
+</p>
+
+### 🤝 Customer Experience & Business Operations
+
+<p>
+  <img src="https://img.shields.io/badge/CRM-Management-2D6A4F?style=for-the-badge" alt="CRM Management">
+  <img src="https://img.shields.io/badge/Customer-Experience-276749?style=for-the-badge" alt="Customer Experience">
+  <img src="https://img.shields.io/badge/Customer-Support-40916C?style=for-the-badge" alt="Customer Support">
+  <img src="https://img.shields.io/badge/Process-Documentation-4C956C?style=for-the-badge" alt="Process Documentation">
+  <img src="https://img.shields.io/badge/Workflow-Optimization-52B788?style=for-the-badge" alt="Workflow Optimization">
+</p>
+
+---
