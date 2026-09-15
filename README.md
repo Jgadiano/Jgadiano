@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Jgadiano/Jgadiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Janneth Gadiano
 
-Here are some ideas to get you started:
+### Project Manager • Marketing Consultant • Virtual Assistant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+I help businesses organize projects, streamline operations, strengthen customer experiences,<br>
+and build smarter systems that support sustainable growth.
+</p>
+
+<br>
+
+<a href="https://jannethgadiano.com">
+  <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-2E7D5B?style=for-the-badge" alt="Portfolio">
+</a>
+
+&nbsp;
+
+<a href="https://www.upwork.com/">
+  <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Jgadiano&style=flat-square&label=Profile+Views" alt="Profile Views">
+
+</div>
+
+---
